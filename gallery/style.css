@@ -1,0 +1,11 @@
+img{
+    display: block;
+
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 2px solid #000000;
+
+}
